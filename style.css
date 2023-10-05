@@ -1,0 +1,85 @@
+.carsale{
+font-size: 50px;
+margin-left: 543px;
+margin-top: 30px;
+color: white;
+
+
+
+}
+
+.navsearch{
+    margin-left: 563px;
+}
+
+.nav1{
+color: white;
+text-decoration: none;
+
+}
+.d{
+    border: 2px;
+
+}
+.C1 {
+    /* width: 5%; */
+}
+/* .C1 input{
+    width: 180px;
+    margin-left: 5%;
+}
+.C1 td{
+   width: 600px; 
+} */
+.C1 tr{
+    /* width: 50%;  */
+    
+ }
+ .C1 td{
+    padding: 2%;
+    width: 50%;
+ }
+.table-div{
+    display: flex;
+    margin-left: 3%;
+    margin-top: 140px;
+
+}
+
+.customerTBL{
+    width: 50%;
+    /* margin-top: -195px; */
+    /* margin-left: 682px; */
+}
+.customerTBL td{
+    padding: 3%;
+    width: 50%;
+}
+
+.new {
+    width: 50%;
+
+}
+
+.new2 {
+
+    width: 50%;
+
+}
+/* .btn{
+margin-left: 102px;
+padding-left: 10%;
+
+} */
+.btnAdd{
+    margin-top: 30px;
+   margin-left: 40px;
+}
+.cc{
+margin-left: 150px;
+margin-bottom: 30px;
+color: white;
+}
+.colour{
+    color: white;
+}
